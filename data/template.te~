@@ -1,0 +1,116 @@
+\documentclass[czech]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper]{geometry}
+\geometry{verbose,tmargin=1cm,bmargin=1cm,lmargin=2.0cm,rmargin=1.0cm}
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{0}
+\usepackage{varioref}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{babel}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{Sborník hádanek}
+\author{Juda Kaleta}
+\date{17. dubna 2010}
+
+\maketitle
+
+\tableofcontents{}
+
+
+\chapter{Úvod}
+
+Proč vlastně takovýto sborník všech možných i nemožných hádanek vytvářím?
+Hlavním důvodem je to, že je všechny, chca nechca, zapomínám. Ne že
+bych je zapomínal úplně, to ne, jen si na ně nemůžu vzpomenout. A
+myslím, že napsat si je, je ta nejspolehlivější cesta jak tomu zabránit.
+
+
+\subsection{Co zde najdete?}
+
+Spoustu hádanek. Opravdu mne baví je lidem dávat, protože podle toho,
+jakým způsobem je řeší, se pozná mnoho z lidského charakteru a osobnosti.
+Od typů lidí, kteří po deseti vteřinách lehkého zamyšlení se, chtějí
+znát řešení, po typy které dokáží přemýšlet deset minut s různorodým
+výsledkem, k lidem, kteří nad některými hádankami stráví bezproblémů
+dva dni vytrvalého přemýšlení - ano, všechny takové znám a je to jen
+to nejpovrchnější třídění. Na každé hádance se odkryje něco jiného
+- zbrklost, předsudky, nelogičnost uvažování.
+
+Většina z lidí má ráda hádanky. Možná si každý z nás má potřebu něco
+dokazovat, nebo se jen to forma relaxace, kdy přijdete na jiné myšlenky.
+Existují ale i lidé, kteří nemají potřebu hádanky řešit. Některým
+už mozek zlenivěl, jiní tvrdí, že mají i svých starostí dost a ten
+zbytek jsou lidé tak praktičtí, že nevidí důvod, proč by hádanku měli
+řešit (ledaže by za to bylo něco víc než dobrý pocit). Je jim to na
+škodu, na spoustu hádanek sice nepřijdete, ale pokud se donutíte zamyslet,
+je vám to ku prospěchu. Rozvíjíte si logické myšlení.
+
+Mnoho z hádanek souvisí s opravdovým životem. Jako krásný příklad
+můžu uvést hádanku ,,Pytlík bonbónů{}``. Návod na řešení používám
+v praxi už léta, osvědčil se. Někdy zase řešení použitelné nejsou,
+buď jsou situace velmi absurdní, nebo jsou to situace do kterých se
+nemáte šanci dostat - anebo a to dost často, proč by to normální člověk
+vůbec řešil.
+
+
+\subsection{Co zde nenajdete?}
+
+Tady je odpověď velmi jednoduchá - hádanky, které se mi nelíbí, nebo
+sem nepatří. Ty které sem nepatří jsou hádanky typu ,,leze, leze,
+po železe...{}`` nebo ,,čtyři rohy, čtyři nohy, co je to?{}```.
+Nejsou to totiž hádanky, u kterých byste měli valnou šanci přijít
+na řešení, pokud už jste ji někde neslyšeli. Pokud po nich toužíte,
+knížek naleznete dost, nebo si zajděte za Glumem%
+\footnote{Postava z knihy J. R. Tolkiena v knížce Hobit (objevuje se i v Pánovi
+Prstenů). Utká se v ,,hádankovém souboji{}`` s hobitem Bilbem Pytlíkem.%
+}.
+
+Pak jsou to hádanky, z kterých je nejznámější takzvaná Einsteinova%
+\footnote{http://cs.wikipedia.org/wiki/Einsteinova\_hádanka%
+}. Jsou to hádanky o zadaných informacích a kombinaci. Na kteroukoliv
+z nich přijdete během půl hodiny, na většinu rychleji. Einstein sice
+tvrdil, že tu jeho dokáží vyřešit pouze 2 \% lidí na planetě, je ale
+jasné, že v tomto se mýlil. Samozřejmě existuje výjimka potvrzující
+pravidlo, i zde jednu podobného typu naleznete. Pochází ze soutěže Pikomat%
+\footnote{http://pikomat.mff.cuni.cz}, i když bude lehce modifikovaná -
+její název je ,,Tři cesty``.
+
+
+\subsection{Obtížnost hádanek}
+
+Je velmi těžké posoudit obtížnost té určité hádanky, přestože jsem
+každou z nich pokládal mnoho lidem. Jsou hádanky typu ,,Město mudrců{}``,
+které vyřeší opravdu jen málo kdo, snad jen Hercule Poirot, je zde
+potřeba přijít na geniální kombinace a vydedukovat si princip od nuly.
+Pak existují hádanky s více možnými řešeními. Ano, některé hádanky
+mají víc řešení, pokud budu znát všechny elegantní, napíši je, ty
+kostrbaté vynechávám. Obtížnost budu proto udávat procentuálně, odhadem.
+Přiznávám se, že na mnohá řešení jsem nepřišel. Někdy mi to nedalo
+a kouknul jsem se ,,jak to má být{}`` po pár minutách, jindy jsem
+přiznal, že na to nemám. Nepřišel jsem na mnoho hádanek a to zejména
+proto, že jsem k tomu neměl motivaci. Pokud si hádanku sám přečtete
+a máte po ruce řešení, neodoláte. Mnohem lepší je pracovat v týmu,
+alespoň ve dvou, pak je motivace myslet mnohem, mnohem vyšší.
+
+
+\subsection{Odkud hádanky pocházejí?}
+
+Snad žádnou z hádanek jsem nevymyslel já. Nevím, kdo má mozek na to
+je vymýšlet, nevím jestli vznikají postupně, či nápadem v dané životní
+situaci. Nemůžu proto ani pořádně a svědomitě uvádět zdroje, ze kterých čerpám.
+Není nezvyklé, aby se jedna a ta samá hádanka objevovala na třech různých webech,
+některé dokonce i ve více jazycích. Kdybyste proto někdo narazil na
+hádanku, která je prokazatelně vaše, nebojte se mi ozvat
+\footnote{Třeba na mail \emph{juda.kaleta@gmail.com}}. Pokud budu přejímat od
+jiných autorů, budu se je snažit citovat, většinou to bohužel nelze.
+
+%CONTENT%
+
+%SOLUTIONS%
+
+\end{document}

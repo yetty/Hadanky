@@ -1,0 +1,22 @@
+Šašek a král
+70 %
+
+%TEXT%
+V~jednom království žil král a šašek. Král nenáviděl šaška a šašek nenáviděl krále. Ale protože to byli duší rytíři a myslí mudrci, rozhodli se vyzvat na zvláštní souboj. Na hradě se nacházelo 12 lahviček s~jedem. Nejúčinnější byl jed s~označením 12, nejslabší byl jed s~číslem 1. Jedy to byly zvláštní, pokud jste vypili jed a pak ještě jeden silnější, účinek se vynuloval a vy jste přežili.
+
+K~jedům první přišel král. Vzal si všechny se sudým číslem a odešel. Po něm přišel šašek a vzal zbytek, tedy jedy s~lichým číslem. Večer král šaška pozval na sklenici vína. Nenáviděli se a chtěli se otrávit. Král nalil místo vína jed šaškovi, pak šašek nalil králi. Načež si každý nalil sobě, aby se pokusil jed zneutralizovat.
+
+Následujícího se probudil šašek. Král zemřel. Jak to šašek dokázal?
+
+
+%BAD%
+\begin{enumerate}
+\item Ne, šašek neměl šanci sehnat silnější jed.
+\item Oba chtěli přežít, král nespáchal sebevraždu.
+\end{enumerate}
+
+%HELP%
+Král udělal přesně to, co by v~jeho situaci udělala většina lidí. Šašek naopak zariskoval a provedl geniální tah.
+
+%SOLUTION%
+Král nalil podle očekávání šaškovi jed č.10. Šašek ale provedl riskantní a geniální kousek a místo jedu nalil králi skutečné víno – to král netušil a otrávil se sám jedem, který si nalil (č.12) aby domnělý jed neutralizoval. Šašek pak jed zapil č.11, čímž ho zneutraliozal.

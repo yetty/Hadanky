@@ -1,0 +1,17 @@
+Lordi
+50 %
+
+%TEXT%
+Do hotelu přišli 3 lordi. Každý zaplatil za pokoj 10 liber. Celkem tedy 30. Pak ale recepční zjistil, že udělal chybu, že měli zaplatit pouze 25 liber, a poslal poslíčka, aby jim vrátil těch 5 liber. Poslíček nevěděl, jak rozdělit 5 liber mezi tři osoby, proto dal každému jednu a dvě si nechal. Každý tedy zaplatil 9 liber.
+Pak tedy musí platit, že 9 x 3 = 27 + 2 (které si nechal poslíček) = 29 liber. Kam zmizela jedna libra?
+
+%BAD%
+\begin{enumerate}
+\item Žádný matematický bug to není...
+\end{enumerate}
+
+%HELP%
+Přestaňte přemýšlet, kam se ta libra ztratila a zkuste to spočítat jinak.
+
+%SOLUTION%
+Nejjednodušší vysvětlení je, že takto to nelze počítat. Jsou různá matematická vysvětlení, která si už nepamatuji, prostě a jednoduše – jde o~číslo 25. Každému se vrátila jedna, proto 28 a dvě libry poslíčka dávají třicet.

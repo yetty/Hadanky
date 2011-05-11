@@ -1,0 +1,19 @@
+Město mudrců
+98 %
+
+%TEXT%
+V~jedné zemi je město, ve kterém žijí pouze mudrci. Mnoho mudrců má manželku a mnohé z~manželek jsou svému muži nevěrné. Každý muž ví o~všech ostatních manželkách, jestli jsou věrné nebo ne - pouze o~té své to neví. Jednoho dne přijde do města prorok a zvěstuje, že pokud nepopraví všechny nevěrné manželky za tolik dní, kolik jich tam je, město vyhoří a oni všichni zemřou. Mudrci mu uvěří a poslední den jsou všechny nevěrné manželky mrtvé. Jak mudrci dokázali přijít na to, jestli je jim manželka nevěrná?
+
+%BAD%
+\begin{enumerate}
+\item Nemůžou si to vzájemně říct.
+\end{enumerate}
+
+%HELP%
+Zjednodušte si situaci a stanovte si počet manželek. Je třeba vžít se do role mudrce a uvědomit si, že jsou všichni velmi moudří.
+
+%SOLUTION%
+Od nejjednodušího - předpoklad, že jsem mudrc a neznám žádnou nevěrnou manželku. Logicky mi z~toho vyplývá, že musí být nevěrná ta má a tak ji popravím hned první den. Pokud znám jednu nevěrnou manželku, předpokládám, že její manžel nezná žádnou jinou a tak ji první den popraví. Pokud se ale nic nestane, domyslím si, že musí znát ještě jinou nevěrnou manželku a to tu moji. Proto ji druhý den popravím. Takto lze postupně číslo nevěrných manželek zvyšovat a s~ním se bude zvyšovat i počet dnů.
+
+%STORY%
+Jak jsem hádanku objevil?

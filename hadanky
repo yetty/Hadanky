@@ -1,0 +1,37 @@
+#/usr/bin/bash
+echo ">> Corecting by vlna"
+vlna data/**/*.tex
+
+echo ">> Creating out directory"
+mkdir "out"
+
+echo "
+>> Puzzles by categories"
+python "./hadanky.py"
+
+echo "
+>> Opening out directory"
+cd out
+
+echo ">> Creating out"
+#latex -interaction=nonstopmode "./hadanky.tex"
+#latex -interaction=nonstopmode "./hadanky.tex"
+#dvips "./hadanky.dvi"
+#psbook "./hadanky.ps" "./prehazene.ps"
+#psnup -2 "./prehazene.ps" "./hadanky.ps"
+#ps2pdf "./hadanky.ps" "./hadanky.pdf"
+#cp "./hadanky.pdf" "../hadanky_(print).pdf"
+
+pdflatex -interaction=nonstopmode "./hadanky.tex"
+pdflatex -interaction=nonstopmode "./hadanky.tex"
+cp "./hadanky.pdf" "../hadanky_(PC).pdf"
+
+cd ..
+echo "
+>> Removing temporaly files"
+rm -vrf out
+
+echo "
+>> All has been done! :) "
+#evince "hadanky_(PC).pdf"
+

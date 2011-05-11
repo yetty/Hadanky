@@ -1,0 +1,16 @@
+Rybníček
+10 %
+
+%TEXT%
+Uprostřed málého rybníčka je leknín. Ten každý den roste a to tak, že zdvojnásobí svoji velikost. Přesně za dvacet dní zaplní celý rybníček. Za jak dlouho ale zaplnil polovinu rybníku?
+
+%BAD%
+\begin{enumerate}
+\item Nejčastější první výkřik do tmy bývá deset. Opravdu to je velký nesmysl.
+\end{enumerate}
+
+%HELP%
+Přečtěte si to ještě jednou, v~klidu a zamyslete se nad všemi známými informacemi.
+
+%SOLUTION%
+Snad každý, přinejhorším na druhý pokus, odpověděl, že za 19. Pokud za 20 dní zaplní celý rybníček, předchozí den ho budu polovina.

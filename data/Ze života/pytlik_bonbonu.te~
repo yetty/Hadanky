@@ -1,0 +1,20 @@
+Pytlík bonbónů
+70 %
+
+%TEXT%
+Společně se sourozencem jste dostali pytlík bonbónů. Jsou v~něm bonbóny
+různé velikosti, chuti, typu i vzhledu. Musíte přijít na způsob, jak si
+bonbóny mezi sebou rozdělit, tak aby si nikdo z~vás nemohl stěžovat.
+
+%BAD%
+\begin{enumerate}
+\item Bonbony nelze půlit, mohou být s~tekutou náplní :)
+\item Ano, opravdu si to musíte mezi sebou rozdělit. Žádné prodávání, kupování jiných, kradení.
+\item Ne, jste hrozná mrcha a chcete z~toho vyjít co nejlépe. Váš sourozenec taktéž. Váš sourozenec taktéž. Takže žádné: ,,Jen si to klidně vezmi.``
+\end{enumerate}
+
+%HELP%
+Abyste měli šanci být spokojeni, musíte mít možnost oba si volit, které bonbóny chcete.
+
+%SOLUTION%
+Jeden z~vás musí bonbóny rozdělit na dvě hromádky, tak aby mu bylo jedno, kterou z~nich dostane. Pak dá tomu druhému vybrat, kterou polovinu chce.

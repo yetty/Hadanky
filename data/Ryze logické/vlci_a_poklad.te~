@@ -1,0 +1,11 @@
+Dva vlci a poklad
+70 %
+
+%TEXT%
+Stojíte před třemi dveřmi. Za dvěma jsou schovaní hladoví vlci, když otevřete tyto, okamžitě vás sežerou. Za třetími je schován poklad. Chcete získat poklad. Vy si vyberete jedny dveře, zkusíte náhodu, nic jiného vám nezbývá. Už se chystáte je otevřít, když tu se z~jedněch jiných ozve vlčí zavrčení. Vy máte ještě šanci vybrat si jiné dveře. Změníte svoji volbu?
+
+%HELP%
+Suchá matematika, pravděpodobnost.
+
+%SOLUTION%
+Lepší je dveře změnit. Ze začátku máte šanci 1 ku 3, že vyberete ty správné dveře. Jinak řečeno ve dvou případech ze tří si vyberete v~prvním kroku špatné dveře. Pokud volbu změníte můžete se (matematicky) splést jen v~jednom případě ze tří.

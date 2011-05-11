@@ -1,0 +1,18 @@
+Přesýpací hodiny
+60 %
+
+%TEXT%
+K\footnote{Hádanka z~matematické soutěže Náboj, konkrétně z~ročníku 2005} dispozici máte dvoje přesýpací hodiny. Na prvních lze odměřit čas 7 minut, na druhých 5 minut. Otázkou je, jakým způsobem odměřit 9 minut od chvíle, kdy se poprvé dotknete libovolných hodin.
+
+%BAD%
+\begin{enumerate}
+\item Opravdu musíte začít měřit od chvíle, kdy se dotknete hodin.
+\end{enumerate}
+
+%HELP%
+\begin{enumerate}
+\item Co se stane, když částečně přesypané hodiny obrátíte?
+\end{enumerate}
+
+%SOLUTION%
+Nejdříve otočíte oboje hodiny. Jakmile doběhne pět minut, na sedmi-minutových hodinách budou nahoře zbývat dvě minuty. Otočíte pěti-minutové hodiny. Po dvou minutách se odsype část pětiminutových hodin. V~tu chvíli znova tyto hodiny otočíte. Po dvou minutách se dosypou a voila - máme devět minut (pět + dvě + dvě).

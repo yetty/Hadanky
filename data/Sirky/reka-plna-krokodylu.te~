@@ -1,0 +1,26 @@
+Řeka plná krokodýlů
+60 %
+
+%TEXT%
+Z~šesti sirek je vytvořena jakási řeka:
+\begin{center}
+	\includegraphics[width=0.2\textwidth]{../data/Sirky/reka.png}
+\end{center}
+
+Vaším úkolem je přendáním dvou sirek vytvořit řeku plnou krokodýlů.
+
+%BAD%
+\begin{enumerate}
+\item Sirky položené doprostřed toku opravdu nejsou správným řešením. Každý,
+	kdo se na řešení podívá, musí jasně pochopit, že to má být řeka plná
+	krokodýlů.
+\end{enumerate}
+
+%HELP%
+Hledejte v~tom fígl.
+
+%SOLUTION%
+\begin{center}
+	\includegraphics[width=0.2\textwidth]{../data/Sirky/reka_reseni.png}
+\end{center}
+

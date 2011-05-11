@@ -1,0 +1,18 @@
+Poprava
+30 %
+
+%TEXT%
+V~jedné zemi chce král pobavit lid a přichystá popravu vězně. Vězeň bude mít šanci se zachránit - bude si tahat z~pytlíku kuličku a pokud vytáhne bílou, bude propuštěn, pokud černou, zemře. Vězeň se dozví od bachaře, že král je mizera, který do pytlíku dá místo bílé kuličky černou a vězeň šanci ve skutečnosti nedostane. Nastane den popravy, vězeň dojde na popraviště, tahá si kuličku. Co musí udělat, aby přežil?
+
+%BAD%
+\begin{enumerate}
+\item Nemůže vytáhnout obě kuličky.
+\item Nemůže začít křičet, že je to podvod, nikdo mu neuvěří.
+\end{enumerate}
+
+%HELP%
+Musí dokázat to, aby nebyla rozhodující kulička, kterou vytáhne, ale ta, která v~pytlíku zůstane.
+
+%SOLUTION%
+Pokud vězeň kuličku spolkne, bude král muset ukázat, která kulička v~pytlíku zůstala.
+

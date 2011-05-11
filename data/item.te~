@@ -1,0 +1,18 @@
+\chapter{%NAME%}
+
+\begin{description}
+\item [{Obtížnost:}] %DIFF% \%
+\item [{Řešení}] \vpageref{sec:Solution_%LINK%}
+\end{description}
+
+\section{Zadání}
+%TEXT%
+
+%HBAD%\section{Nejčastější špatné nápady}
+%BAD%
+
+%HHELP%\section{Nápověda}
+%HELP%
+
+%\section{Příběh}%
+% S T O R Y %

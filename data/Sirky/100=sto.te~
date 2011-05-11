@@ -1,0 +1,23 @@
+510=100
+70 %
+
+%TEXT%
+Přidej sirku tak, aby platila rovnost.
+\begin{center}
+	\includegraphics[width=0.8\textwidth]{../data/Sirky/510=100.png}
+\end{center}
+
+%BAD%
+\begin{enumerate}
+\item Musí platit rovnost. Nelze vytvořit nerovnost.
+\end{enumerate}
+
+%HELP%
+Musíte se dostat ze zajetých kolejí a podívat se na to trochu jinak
+
+%SOLUTION%
+\begin{center}
+	\includegraphics[width=0.8\textwidth]{../data/Sirky/STO=100.png}
+\end{center}
+
+Pěkné, že? Nebo pořád nevidíte?\footnote{Číslo 510 je při zápisu sirkami stejné jako SIO. Stačí dát sirku nad I~a je z~něj T.}

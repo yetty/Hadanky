@@ -1,0 +1,16 @@
+Topinky
+5 %
+
+%TEXT%
+Chcete si udělat k~večeři topinky osmažené na pánvičce. K~tomu můžete použít jednu pánvičku, na kterou se vejdou vedle sebe pouze dvě topinky. Každá z~topinek se z~jedné stany opéká 5 minut. Za jaký nejkratší čas můžete opéct tři topinky?
+
+%BAD%
+\begin{enumerate}
+\item Jde to i rychleji než za 20 minut.
+\end{enumerate}
+
+%HELP%
+Jde o~co nejlepší rozvrhnutí času. Tak aby na pánvičce byly pořád obě dvě místa obsazeny.
+
+%SOLUTION%
+Přijít na to, že nejdříve budete opékat 1. a 2. topinku z~jedné strany, pak 1. topinku otočíte, 2. vyndáte, přiložíte 3. a nakonec vyndáte 1. která už je hotová, otočíte 3. a přidáte zpět 2. Takže celkem 5 + 5 + 5 = 15 minut.

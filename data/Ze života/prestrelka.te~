@@ -1,0 +1,19 @@
+Přestřelka
+40 %
+
+%TEXT%
+Ocitáte se na divokém Západě. Náhodou se připletete mezi Billyho Kida a Arizonského Žida, kteří se zrovna nepohodli a vyzvali se na souboj. Vy máte tu smůlu a musíte jít do souboje s~nimi. Ne že by proti vám něco měli, jen chtějí mít víc terčů. Billy Kid se trefí pokaždé, když vystřelí. Žid trefí pouze polovinu střel a vy, který nejste trénován, trefíte jednou z~deseti ran. Střílí se od nejslabšího, tedy od vás, po nejsilnějšího a to každý pouze jednou, pouze v~jednom kole. Na koho vystřelíte, abyste měl co největší šanci na přežití?
+
+%BAD%
+\begin{enumerate}
+\item Neutečete.
+\item Nepřilétne Rambo, a nezachrání vás.
+\end{enumerate}
+
+%HELP%
+Oni vás nechtějí zabít, jdou hlavně po sobě.
+
+%SOLUTION%
+Nejlepší je vystřelit do vzduchu. Pokud vystřelíte po Židovi a náhodou trefíte, Billy vás pak sejme určitě, protože nebude mít vystřelit na nikoho jiného. Pokud vystřelíte po Billovi a náhodou trefíte, Žid vás zabije s~padesáti procentní šancí. Pokud vystřelíte do vzduchu, Žid pak vystřelí logicky po Billovi - ví, že ten by pak šel po něm.
+
+
